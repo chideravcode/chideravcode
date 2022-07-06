@@ -1,7 +1,7 @@
 Hello! My name is Chidera and I am an aspiring software developer.</br>
 I’m interested in front end and game development.</br>
 I’m currently learning Python, Java, Javascript, HTML, and CSS.</br>
-I will update this file when I am looking to collaborate./<br>
+I will update this file when I am looking to collaborate.</br>
 Thank you for reading!
 
 <!---
